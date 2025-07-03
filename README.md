@@ -63,5 +63,3 @@ As a UI/UX design intern, I learned to:
 
 - Project Owner: Kalpick Sharma  
 - UI/UX Design Intern
-
--
